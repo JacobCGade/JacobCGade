@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacobCGade
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning a bunch of stuff at Aarhus University, Software Technology
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m working as a Software Engineer @ Strongminds a Trifork company
+- 🌱 I’m constantly seeking to learn new things by building poc's and small projects
+- 🧠 I'm currently trying to master dotnet by building a personal finance web application
 - 📫 How to reach me - Email: jacobcgade@gmail.com, LinkedIn: www.linkedin.com/in/jacob-c-gade
 
 <!---
